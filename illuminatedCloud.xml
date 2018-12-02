@@ -1,0 +1,18 @@
+<application>
+  <component name="IlluminatedCloudSettings">
+    <option name="connectionConfigs">
+      <list>
+        <IlluminatedCloudConnectionConfig>
+          <option name="connectionName" value="NewConnection" />
+          <option name="organizationType" value="DEVELOPMENT" />
+          <option name="password" value="df93dfcfdfcedfc0dfdfdfc9dfc2dfc5dfc1dfc6dfcfdfd0" />
+          <option name="securityToken" value="dfc4dfe2dfeedfeedfc6dfcedfc5dfc5df9ddfecdfebdfecdfc7dfdfdfe6dfe4dfe0dfd9dfc5dfecdfd2dfd3dfdcdfed" />
+          <option name="username" value="dawid.majdanski@britenet.com.pl" />
+        </IlluminatedCloudConnectionConfig>
+      </list>
+    </option>
+    <option name="promptOverrideSaveAllAction" value="false" />
+    <option name="selectedConnectionIndex" value="0" />
+    <option name="selectedTabIndex" value="1" />
+  </component>
+</application>
